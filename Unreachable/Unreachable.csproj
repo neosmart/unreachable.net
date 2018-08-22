@@ -2,6 +2,11 @@
 
   <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>
+    <Description>Provides UnreachableException() to be thrown when code cannot be reached.</Description>
+    <Copyright>2018 NeoSmart Technologies</Copyright>
+    <Authors>Mahmoud Al-Qudsi &lt;mqudsi@neosmart.net&gt;</Authors>
+    <Company>NeoSmart Technologies</Company>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
   </PropertyGroup>
 
 </Project>
